@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Home</title>
+<title>Home Page</title>
 	<link href="Style.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
 		.front1{display:none;}
@@ -148,6 +148,8 @@ function carousel() {
 		<br>
 		<br>
 	</div>
-
+					
+					
+					<footer>Home Page</footer>
 </body>
 </html>
